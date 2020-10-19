@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 # Project stuff:
+meu_passo_a_passo.txt
 config/settings.py
 venv
 
